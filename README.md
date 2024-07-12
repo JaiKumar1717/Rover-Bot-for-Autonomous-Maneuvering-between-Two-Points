@@ -1,0 +1,2 @@
+# Rover-Bot-for-Autonomous-Maneuvering-between-Two-Points
+Built an autonomous rover using an ESP32 controller. Implemented algorithms for processing distance and angle data to navigate and control motors for precise waypoint following. Integrated DC motors, motor drivers (L298N), wheels, chassis, battery, and casing to create a functional rover capable of navigating predefined waypoints autonomously.
